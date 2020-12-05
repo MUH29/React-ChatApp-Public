@@ -8,6 +8,8 @@ This is a chat web application made using ReactJS and the Firebase module. Pleas
 Please install the following modules in your project directory if you wish to run it on local host!
 <code>npm install firebase react-firebase-hooks</code>
 
+In App.js put your firebase credentials in the firebase.initializeApp function
+
 # npm run
 run this command if you want to run the web app
 
