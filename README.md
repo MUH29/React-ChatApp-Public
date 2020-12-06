@@ -1,6 +1,6 @@
 # ChatApp
 
-This is a chat web application made using ReactJS and the Firebase module. Please visit chat-app-firebase.surge.sh to view the application
+This is a chat web application made using ReactJS and the Firebase module. The demo site has been taken down, you can host it on your own
 
 ![](images/screenshot.png)
 
