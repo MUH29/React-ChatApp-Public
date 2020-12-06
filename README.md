@@ -13,8 +13,7 @@ Then go to https://console.firebase.google.com/ and create a new project. Inside
 
 After that go to your project settings and create a new app. Copy the firebase.config data In App.js put that data in the firebase.initializeApp function
 
-Here is a video
-![](media/setup.mp4)
+Go to media and install setup.mp4 to watch how to set up your firebase project if you are a visual learner
 
 # npm run
 run this command if you want to run the web app
